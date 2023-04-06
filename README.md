@@ -1,2 +1,2 @@
-# Palindrome
-Word palindrome as seen on my resume.
+# Word Palindrome
+Word palindrome tester as seen on my resume.
